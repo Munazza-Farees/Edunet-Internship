@@ -1,4 +1,4 @@
-# edunet-virtual-internship - Secure Medical Image Steganography
+# Edunet-Internship - Secure Medical Image Steganography
 
 This project embeds encrypted patient information inside medical images using Least Significant Bit (LSB) steganography and AES encryption with MAC authentication. It provides a secure way for healthcare systems to protect sensitive data while maintaining the visual integrity of medical scans.
 
